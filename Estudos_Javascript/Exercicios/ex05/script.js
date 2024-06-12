@@ -1,0 +1,1 @@
+alert("Raphael" * 8 );
