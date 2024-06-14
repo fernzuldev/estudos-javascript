@@ -2,7 +2,6 @@ let velocidade = 100;
 
 if(velocidade <= 80) {
     alert("Não foi multado")
-}
-else{
+} else{
     alert("Foi multado");
 }
